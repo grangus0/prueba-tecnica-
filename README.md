@@ -13,7 +13,7 @@
 
 ## Requisitos del Sistema
 
-- **.NET Framework 4.8** o superior.
+- **.NET Framework 8.0
 - **Visual Studio Code** o cualquier otro editor de texto compatible con C#.
 - **SDK de .NET** instalado.
 
