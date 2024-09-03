@@ -1,0 +1,14 @@
+C:\Users\jsper\OneDrive\Escritorio\presentacion a empresa\bin\Debug\net8.0\presentacion a empresa.exe
+C:\Users\jsper\OneDrive\Escritorio\presentacion a empresa\bin\Debug\net8.0\presentacion a empresa.deps.json
+C:\Users\jsper\OneDrive\Escritorio\presentacion a empresa\bin\Debug\net8.0\presentacion a empresa.runtimeconfig.json
+C:\Users\jsper\OneDrive\Escritorio\presentacion a empresa\bin\Debug\net8.0\presentacion a empresa.dll
+C:\Users\jsper\OneDrive\Escritorio\presentacion a empresa\bin\Debug\net8.0\presentacion a empresa.pdb
+C:\Users\jsper\OneDrive\Escritorio\presentacion a empresa\obj\Debug\net8.0\presentacion a empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsper\OneDrive\Escritorio\presentacion a empresa\obj\Debug\net8.0\presentacion a empresa.AssemblyInfoInputs.cache
+C:\Users\jsper\OneDrive\Escritorio\presentacion a empresa\obj\Debug\net8.0\presentacion a empresa.AssemblyInfo.cs
+C:\Users\jsper\OneDrive\Escritorio\presentacion a empresa\obj\Debug\net8.0\presentacion a empresa.csproj.CoreCompileInputs.cache
+C:\Users\jsper\OneDrive\Escritorio\presentacion a empresa\obj\Debug\net8.0\presentacion a empresa.dll
+C:\Users\jsper\OneDrive\Escritorio\presentacion a empresa\obj\Debug\net8.0\refint\presentacion a empresa.dll
+C:\Users\jsper\OneDrive\Escritorio\presentacion a empresa\obj\Debug\net8.0\presentacion a empresa.pdb
+C:\Users\jsper\OneDrive\Escritorio\presentacion a empresa\obj\Debug\net8.0\presentacion a empresa.genruntimeconfig.cache
+C:\Users\jsper\OneDrive\Escritorio\presentacion a empresa\obj\Debug\net8.0\ref\presentacion a empresa.dll
